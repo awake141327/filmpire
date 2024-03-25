@@ -1,6 +1,6 @@
 import { CssBaseline } from "@mui/material";
 import { Routes, Route } from "react-router-dom";
-import useStyles from "./components/styles";
+import useStyles from "./styles";
 import {
   Actors,
   MovieInformation,
